@@ -1,0 +1,166 @@
+body {
+    background-color: #AE1332;
+}
+
+.box {
+    width: 389px;
+    height: 465px;
+    border-radius: 20px;
+    background-color: #f8766b;
+    position: relative;
+}
+
+.strawberry {
+    background-color: #f8766b;
+}
+
+.banana {
+    background-color: #EDD251;
+}
+
+.watermelon {
+  background-color: #9DC262;
+}
+
+.lime {
+   background-color: #BFD663;
+}
+
+.apple {
+    background-color: #E93F29;
+}
+
+.peach {
+    background-color: #DB4F4B;
+}
+
+.plums {
+  background-color: #9b5366;
+}
+
+.orange {
+  background-color: #f47f4C;
+}
+
+.kiwi {
+   background-color: #98b37e;
+}
+
+h3 {
+    width: 163px;
+    height: 38px;
+    top: 64px;
+    left: 24px;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    position: relative;
+    color: #ffffff;
+}
+
+.white_box {
+    display: flex;
+    width: 136px;
+    height: 48px;
+    top: 393px;
+    left: 24px;
+    gap: 10px;
+    border-radius: 200px;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.price {
+    margin: 12px 21px;
+    width: 94px;
+    height: 24px;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.04em;
+    color: #AE1332;
+}
+
+.plant {
+    width: 40px;
+    height: 24px;
+    top: 109px;
+    left: 24px;
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+
+}
+
+.fruit {
+    position: absolute;
+    top: 137px;
+    left: 47px;
+    width: 295px;
+    height: 252px;
+}
+
+.list_fruits > li {
+    list-style-type: none;
+}
+
+
+.organic {
+    width: 624px;
+    gap: 14px;
+    color: #ffffff;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 328px;
+    margin-right: 328px;
+}
+
+.list_fruits {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 1215px;
+    height: 465px;
+    gap: 24px;
+    margin: 44px 32px;
+    padding: 0;
+}
+
+.fruits {
+    width: 1216px;
+    height: 1599px;
+    left: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position: relative;
+
+}
+
+/*.cards {
+    width: 1215px;
+    height: 1443px;
+    gap: 24px;
+    margin: 0 32px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
+}*/
